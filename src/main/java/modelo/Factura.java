@@ -6,7 +6,7 @@ package modelo;
 
 import java.util.List;
 import javax.persistence.*;
-
+//hola
 /**
  *
  * @author Dell Inspiron 16
